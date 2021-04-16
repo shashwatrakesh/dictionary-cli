@@ -1,0 +1,34 @@
+
+{    
+    "1":{
+        "type":"Answer with a word for the following definition: ",
+        "question":"to explain or make something clear",
+        "answer":["elucidate","explain","illuminate"],
+        "wordID":"1"
+    },
+    "2":{
+        "type":"Answer with a word for the following definition: ",
+        "question":"a feeling of overall weakness",
+        "answer":["malaise","unease","ills"],
+        "wordID":"2"
+    },
+    "3":{
+        "type":"Answer with a synonym for the following word: ",
+        "question":"obfuscate",
+        "answer":["explain","illuminate"],
+        "wordID":"4"
+    },
+    "4":{
+        "type":"Answer with a synonym for the following word: ",
+        "question":"perfunctory",
+        "answer":["quick","brief"],
+        "wordID":"5"
+    },
+    "5":{
+        "type":"Answer with a antonym for the following word: ",
+        "question":"obfuscate",
+        "answer":["confuse","obscure"],
+        "wordID":"4"
+    }
+
+}   

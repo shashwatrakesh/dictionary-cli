@@ -1,0 +1,44 @@
+{
+    "elucidate":{
+        "word":"Elucidate",
+        "definition":"to explain or make something clear",
+        "synonyms":["explain", "illuminate"],
+        "antonyms":["confuse","obscure"],
+        "examples":"work such as theirs will help to elucidate this matter"
+    },
+    "malaise":{
+        "word":"Malaise",
+        "definition":"a feeling of overall weakness",
+        "synonyms":["unease", "ills"],
+        "antonyms":["comfort","well-being"],
+        "examples":"a general air of malaise"
+    },
+    "non sequitur":{
+        "word":"Non sequitur",
+        "definition":"a conclusion or statement that does not logically follow from the previous argument or statement",
+        "synonyms":["artifice", "bias"],
+        "antonyms":["sequitur","logical"],
+        "examples":"his weird mixed metaphors and non sequiturs"
+    },
+    "obfuscate":{
+        "word":"Obfuscate",
+        "definition":"make obscure, unclear, or unintelligible",
+        "synonyms":["explain", "illuminate"],
+        "antonyms":["confuse","obscure"],
+        "examples":"the spelling changes will deform some familiar words and obfuscate their etymological origins"
+    },
+    "perfunctory":{
+        "word":"Perfunctory",
+        "definition":"carried out without real interest, feeling, or effort",
+        "synonyms":["quick", "brief"],
+        "antonyms":["careful","thorough"],
+        "examples":"he gave a perfunctory nod"
+    },
+    "ids":{
+        "1":"elucidate",
+        "2":"malaise",
+        "3":"non sequitur",
+        "4":"obfuscate",
+        "5":"perfunctory"
+    }
+}
