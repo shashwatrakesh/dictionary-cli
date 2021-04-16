@@ -39,6 +39,7 @@ npm link
 ### Commands
 
 -List of words can be found in the words.json file.
+
 -List of quesions with their answers can be found in the quesans.json file.
 
 - Word Definitions
